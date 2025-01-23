@@ -39,3 +39,10 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 | :---: | :---: |
 
 
+### 🛠 Tecnologias
+
+As seguintes ferramentas foram usadas na construção do projeto:
+
+- [Ollama](https://ollama.com/download)
+- [Anything LLM](https://anythingllm.com/desktop)
+- [Robot Framework](https://robotframework.org/)
