@@ -21,5 +21,5 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 
 # Pessoas Desenvolvedoras
 
-| [<img loading="lazy" src="https://https://avatars.githubusercontent.com/u/60400472?v=4" width=115><br><sub> Mércia Ramos</sub>](https://github.com/merciaramos) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Naiara Barbosa</sub>](https://github.com/guilhermeonrails) |  
+| [<img loading="lazy" src=""https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub> Mércia Ramos</sub>](https://github.com/merciaramos) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Naiara Barbosa</sub>](https://github.com/guilhermeonrails) |  
 | :---: | :---: |
