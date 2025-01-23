@@ -7,11 +7,6 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 > :construction: Projeto em construção :construction:
 
 
-# Índice 
+# :hammer: Funcionalidade do projeto
 
-* [Descrição do Projeto](#descrição-do-projeto)
-* [Status do Projeto](#status-do-Projeto)
-* [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
-* [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#Mércia-Ramos)
-* [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
+- `Funcionalidade`: O nosso projeto tem como objetivo auxiliar um estudante do bacharelado interdisciplinar da UFBA a montar sua grade curricular ideal para foco na área desejada no mercado de trabalho. Com esse objetivo estamos construindo a ideia, para que possa ajudar todos da comunidade UFBA, e também utilizando os conceitos aplicados na aula de HACA 47 - Tópicos Especiais em Tecnologia I
