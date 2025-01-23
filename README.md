@@ -15,6 +15,7 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 
 # 🛠️ Abrir e rodar o projeto
 
-**Necessário baixar o Ollama 3.2**
-**É recomendado baixar o Anything LLM para aplicação de forma mais fácil do RAG**
+- **Necessário baixar o Ollama 3.2** 
+
+- **É recomendado baixar o Anything LLM para aplicação de forma mais fácil do RAG**
 
