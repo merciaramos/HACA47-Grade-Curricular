@@ -19,11 +19,15 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 
 - **É recomendado baixar o Anything LLM para aplicação de forma mais fácil do RAG**
 
+- **Caso queira rodar automação do robot framework para celeridade da coletas de respostas de perguntas, necessário baixar chromecast compartivel com seu navegador**
 
-### Features
 
-- [x] Criação do modelo
-- [x] Aplicação do RAG
+### Checks já feitos
+
+- [x] Criação das perguntas para o modelo
+- [x] Aplicação das perguntas no modelo
+- [x] Utilização de robot para efiência nas coletas de perguntas e respostas
+- [ ] Aplicação do RAG
 - [ ] Aplicação do fine-tunning
 
 
