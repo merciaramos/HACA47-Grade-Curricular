@@ -10,3 +10,12 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 # :hammer: Funcionalidade do projeto
 
 - `Funcionalidade`: O nosso projeto tem como objetivo auxiliar um estudante do bacharelado interdisciplinar da UFBA a montar sua grade curricular ideal para foco na área desejada no mercado de trabalho. Com esse objetivo estamos construindo a ideia, para que possa ajudar todos da comunidade UFBA, e também utilizando os conceitos aplicados na aula de HACA 47 - Tópicos Especiais em Tecnologia I
+
+
+
+# 🛠️ Abrir e rodar o projeto
+
+**Necessário baixar o Ollama 3.2**
+**É recomendado baixar o Anything LLM para aplicação de forma mais fácil do RAG**
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
