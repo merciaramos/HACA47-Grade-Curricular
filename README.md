@@ -19,3 +19,7 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 
 - **É recomendado baixar o Anything LLM para aplicação de forma mais fácil do RAG**
 
+# Autores
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub> Mércia Ramos</sub>](https://github.com/merciaramos) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Naiara Barbosa</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
