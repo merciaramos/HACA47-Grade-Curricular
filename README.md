@@ -31,14 +31,6 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 - [ ] Aplicação do fine-tunning
 
 
-
-# Pessoas Desenvolvedoras
-
-
-| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/60400472?v=4" width=115><br><sub> Mércia Ramos</sub>](https://github.com/merciaramos) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/115239281?v=4" width=115><br><sub>Naiara Barbosa</sub>](https://github.com/guilhermeonrails) |  
-| :---: | :---: |
-
-
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
@@ -46,3 +38,12 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Ollama](https://ollama.com/download)
 - [Anything LLM](https://anythingllm.com/desktop)
 - [Robot Framework](https://robotframework.org/)
+
+
+
+## Pessoas Desenvolvedoras
+
+
+| [<img loading="lazy" src="https://avatars.githubusercontent.com/u/60400472?v=4" width=115><br><sub> Mércia Ramos</sub>](https://github.com/merciaramos) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/115239281?v=4" width=115><br><sub>Naiara Barbosa</sub>](https://github.com/guilhermeonrails) |  
+| :---: | :---: |
+
