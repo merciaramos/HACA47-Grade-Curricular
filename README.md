@@ -28,7 +28,7 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 - [x] Aplicação das perguntas no modelo
 - [x] Utilização de robot para efiência nas coletas de perguntas e respostas
 - [ ] Aplicação do RAG
-- [ ] Aplicação do fine-tunning
+- [ ] Aplicação do fine-tuning para treinamento da IA
 
 
 ### 🛠 Tecnologias
