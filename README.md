@@ -13,5 +13,5 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 * [Status do Projeto](#status-do-Projeto)
 * [Funcionalidades e Demonstração da Aplicação](#funcionalidades-e-demonstração-da-aplicação)
 * [Tecnologias utilizadas](#tecnologias-utilizadas)
-* [Pessoas Contribuidoras](#pessoas-contribuidoras)
+* [Pessoas Contribuidoras](Mércia Ramos, Naiara Barbosa)
 * [Pessoas Desenvolvedoras do Projeto](#pessoas-desenvolvedoras)
