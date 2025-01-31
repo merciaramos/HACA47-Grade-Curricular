@@ -65,7 +65,7 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 
 
 
-- Criamos uma variavel de ambiente para que o ollama pudesse ser "escutado" em qualquer lugar que fossse chamado 
+- Criamos uma variavel de ambiente para que o ollama pudesse ser "escutado" em qualquer lugar que fossse chamado
 ![image](https://github.com/user-attachments/assets/56f7e1af-8c24-44ef-9f97-43913c2db1b6)
 ![image](https://github.com/user-attachments/assets/5dd29a38-94c3-4e0e-8690-a284d6826184)
 
