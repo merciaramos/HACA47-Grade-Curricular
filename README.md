@@ -58,7 +58,7 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 ![image](https://github.com/user-attachments/assets/03dc0ccc-88ee-481b-9e5a-4c2214923d85)
 
 
-- Setando o modelo que iremos utilizar do ollama (3.2:3b)
+- Setando o modelo que iremos utilizar do ollama --> 3.2:3b
 ![image](https://github.com/user-attachments/assets/5d20f281-3686-440c-a971-058da80bca06)
 
 
