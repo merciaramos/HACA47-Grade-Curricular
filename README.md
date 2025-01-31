@@ -50,10 +50,33 @@ As seguintes ferramentas foram usadas na construção do projeto:
 | :---: | :---: |
 
 
-## RAG
+## Utilização da RAG
+ 
+A RAG fornece uma maneira de otimizar o resultado de um LLM com informações direcionadas sem modificar o próprio modelo subjacente; as informações direcionadas podem ser mais atualizadas do que o LLM, bem como serem específicas para uma determinada organização e setor. No nosso caso, a utilização dessa tecnica irá ajudar a dar um melhor direcionamento para as máterias que o usuário pode cursar dentro da UFBA para alcançar seu objetivo enquanto aluno e ficar na sua area de mercado mais desejada
 
+- Utilização do docker para subir os conteiners para utilização do dify
 ![image](https://github.com/user-attachments/assets/03dc0ccc-88ee-481b-9e5a-4c2214923d85)
 
+
+- Setando o modelo que iremos utilizar do ollama (3.2:3b)
+![image](https://github.com/user-attachments/assets/5d20f281-3686-440c-a971-058da80bca06)
+
+
+- Criamos uma variavel de ambiente para que o ollama pudesse ser "escutado" em qualquer lugar que fossse chamado 
+![image](https://github.com/user-attachments/assets/56f7e1af-8c24-44ef-9f97-43913c2db1b6)
+![image](https://github.com/user-attachments/assets/5dd29a38-94c3-4e0e-8690-a284d6826184)
+
+- Fizemos a integração do nosso modelo do ollama com o dify para fazer um web crawler na pagina de aluno web da ufba para busca das gardes curriculares
+![image](https://github.com/user-attachments/assets/4a971037-b36b-4671-91c2-5b5311f05f1c)
+
+- Utilizamos o provedor Firecrawl para nos ajudar nessa pesquisa e extração de dados
+![image](https://github.com/user-attachments/assets/93c48d34-8cf6-425d-b8b3-5e7983123240)
+![image](https://github.com/user-attachments/assets/cd6b111f-f560-48ed-91cf-d1a07321bf50)
+![image](https://github.com/user-attachments/assets/6de4400f-9809-408d-a812-94e04e86befe)
+![image](https://github.com/user-attachments/assets/69a21c6e-1737-4bc2-a2e9-12eee4e7f9b5)
+
+- Por fim, integramos com o nosso modelo do ollama
+![image](https://github.com/user-attachments/assets/cfee7b5c-fec1-434d-9191-94dea2d3d2e7)
 
 
 
