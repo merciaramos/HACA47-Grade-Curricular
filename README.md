@@ -90,3 +90,14 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 ![image](https://github.com/user-attachments/assets/91997ad2-9063-4241-8493-a42bcc9946bb)
 ![image](https://github.com/user-attachments/assets/5debb427-e44b-4da1-9200-e5fea0eb9e03)
 
+
+## Fazendo o fine tunning
+
+- Instalamos o LlaMA-Factory WebUI
+![image](https://github.com/user-attachments/assets/923086cc-6f17-445c-a8bc-b085bebed012)
+
+- Vinculamos com a nossa conta do hugging face para utilizar nosso token
+![image](https://github.com/user-attachments/assets/a07445c7-5adf-4488-b31f-45e8151d0da4)
+
+- Subimos a aplicação do LLama Factory
+![image](https://github.com/user-attachments/assets/b55bee2a-a569-42f5-aa68-95817f85f64e)
