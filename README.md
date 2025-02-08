@@ -86,4 +86,7 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 ![image](https://github.com/user-attachments/assets/cfee7b5c-fec1-434d-9191-94dea2d3d2e7)
 
 
+- Percebemos que mesmo fazendo o RAG, o modelo ainda necessitada de um ajuste, pois tinha as informações sobre as materias da UFBA porém ainda respondia de forma erronea 
+![image](https://github.com/user-attachments/assets/91997ad2-9063-4241-8493-a42bcc9946bb)
+![image](https://github.com/user-attachments/assets/5debb427-e44b-4da1-9200-e5fea0eb9e03)
 
