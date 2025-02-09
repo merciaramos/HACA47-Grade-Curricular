@@ -99,5 +99,9 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 - Vinculamos com a nossa conta do hugging face para utilizar nosso token
 ![image](https://github.com/user-attachments/assets/a07445c7-5adf-4488-b31f-45e8151d0da4)
 
-- Subimos a aplicação do LLama Factory
-![image](https://github.com/user-attachments/assets/b55bee2a-a569-42f5-aa68-95817f85f64e)
+- Rodamos nosso script para treinamento, e essa foi nossa primeira saída
+![image](https://github.com/user-attachments/assets/37338894-bd6d-4f9b-830c-d90baf03bde6)
+![image](https://github.com/user-attachments/assets/dbf34b85-23f2-4173-930d-109032bf231f)
+
+
+
