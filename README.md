@@ -113,9 +113,13 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 - Processo do nosso Fine tunning ocorrendo
 
 **Número de exemplos:** 4 exemplos estão sendo usados para treinamento.
+
 **Épocas (Epochs):** O treinamento está ocorrendo em 3 épocas.
+
 **Parâmetros treináveis:** O modelo possui 3.407.872 parâmetros treináveis.
-**Perda de treinamento e validação:** A perda de validação nas 3 épocas está registrada, indicando que o treinamento está sendo executado, mesmo sem um log detalhado de perda de treinamento no momento.
+
+**Perda de treinamento e validação:** A perda de validação nas 3 épocas está registrada, indicando que o treinamento está sendo executado, 
+mesmo sem um log detalhado de perda de treinamento no momento.
 
 ![image](https://github.com/user-attachments/assets/d5760c5a-71bd-4ef0-8827-77e6932f0f0c)
 
