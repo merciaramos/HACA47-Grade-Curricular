@@ -107,5 +107,15 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 ![image](https://github.com/user-attachments/assets/7fec7521-761f-460c-8049-692b3645efd1)
 ![image](https://github.com/user-attachments/assets/17a3ec4e-b589-4190-a08a-ba16e8a552b0)
 ![image](https://github.com/user-attachments/assets/d093cfa2-59cc-4f52-9135-97e256f3163f)
+![image](https://github.com/user-attachments/assets/d04243a4-dcc4-496f-ac33-2335f0b87165)
+![image](https://github.com/user-attachments/assets/2305a3c9-7def-4cc8-b12b-ddd2e778bcb5)
 
+- Processo do nosso Fine tunning ocorrendo
+
+**Número de exemplos:** 4 exemplos estão sendo usados para treinamento.
+**Épocas (Epochs):** O treinamento está ocorrendo em 3 épocas.
+**Parâmetros treináveis:** O modelo possui 3.407.872 parâmetros treináveis.
+**Perda de treinamento e validação:** A perda de validação nas 3 épocas está registrada, indicando que o treinamento está sendo executado, mesmo sem um log detalhado de perda de treinamento no momento.
+
+![image](https://github.com/user-attachments/assets/d5760c5a-71bd-4ef0-8827-77e6932f0f0c)
 
