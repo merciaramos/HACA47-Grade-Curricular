@@ -104,5 +104,8 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 ![image](https://github.com/user-attachments/assets/dbf34b85-23f2-4173-930d-109032bf231f)
 
 - E começamos o nosso Fine Tunning
+![image](https://github.com/user-attachments/assets/7fec7521-761f-460c-8049-692b3645efd1)
+![image](https://github.com/user-attachments/assets/17a3ec4e-b589-4190-a08a-ba16e8a552b0)
+![image](https://github.com/user-attachments/assets/d093cfa2-59cc-4f52-9135-97e256f3163f)
 
 
