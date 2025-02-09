@@ -30,7 +30,7 @@ Repositório onde iremos colocar nossos entregáveis do nosso projeto de montage
 - [x] Utilização de robot para efiência nas coletas de perguntas e respostas
 - [x] Utilização de codigo automatizado para avaliação de perguntas e respostas
 - [x] Aplicação do RAG
-- [ ] Aplicação do fine-tuning para treinamento da IA
+- [x] Aplicação do fine-tuning para treinamento da IA
 
 
 ### 🛠 Tecnologias
@@ -99,9 +99,10 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 - Vinculamos com a nossa conta do hugging face para utilizar nosso token
 ![image](https://github.com/user-attachments/assets/a07445c7-5adf-4488-b31f-45e8151d0da4)
 
-- Rodamos nosso script para treinamento, e essa foi nossa primeira saída
+- Rodamos nosso script para treinamento, e essa foi nossa primeira saída do modelo pré-treinado (Inferência)
 ![image](https://github.com/user-attachments/assets/37338894-bd6d-4f9b-830c-d90baf03bde6)
 ![image](https://github.com/user-attachments/assets/dbf34b85-23f2-4173-930d-109032bf231f)
 
+- E começamos o nosso Fine Tunning
 
 
