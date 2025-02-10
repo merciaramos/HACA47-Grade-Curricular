@@ -129,3 +129,5 @@ mesmo sem um log detalhado de perda de treinamento no momento.
 
 - Nosso Fine tunning sendo realizado com algumas perguntas sobre a UFBA
 ![image](https://github.com/user-attachments/assets/1e66583a-3ef9-4877-b232-ba3256582ff6)
+![image](https://github.com/user-attachments/assets/3456c89d-409a-475c-b3d2-841fef6ce97b)
+
