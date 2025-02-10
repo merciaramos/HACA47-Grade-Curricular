@@ -41,6 +41,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [Anything LLM](https://anythingllm.com/desktop)
 - [Robot Framework](https://robotframework.org/)
 - [Python](https://www.python.org/)
+- [Google Colab](https://colab.google/)
 
 
 ## Pessoas Desenvolvedoras
@@ -110,7 +111,7 @@ A RAG fornece uma maneira de otimizar o resultado de um LLM com informações di
 ![image](https://github.com/user-attachments/assets/d04243a4-dcc4-496f-ac33-2335f0b87165)
 ![image](https://github.com/user-attachments/assets/2305a3c9-7def-4cc8-b12b-ddd2e778bcb5)
 
-- Processo do nosso Fine tunning ocorrendo
+- Nosso Fine Tunning
 
 **Número de exemplos:** 4 exemplos estão sendo usados para treinamento.
 
@@ -123,3 +124,8 @@ mesmo sem um log detalhado de perda de treinamento no momento.
 
 ![image](https://github.com/user-attachments/assets/d5760c5a-71bd-4ef0-8827-77e6932f0f0c)
 
+- WandB (Weights & Biases) está registrando e sincronizando os resultados, o que ajuda a monitorar o progresso do nosso modelo
+![image](https://github.com/user-attachments/assets/24340cf9-c420-4e41-b0a8-25fef8759afd)
+
+- Nosso Fine tunning sendo realizado com algumas perguntas sobre a UFBA
+![image](https://github.com/user-attachments/assets/1e66583a-3ef9-4877-b232-ba3256582ff6)
